@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red.svg)](LICENSE)
 
 ## Introduction
-Scan2Read is a mobile application framework designed to facilitate the conversion of images to text and subsequently to speech. It aims to assist visually impaired individuals by providing them with a tool to extract text from images and convert it into speech for easy comprehension. This project was developed as a runner-up submission for a Hackathon, completed within 48 hours.
+Scan2Read is a mobile application framework designed to facilitate the conversion of images to text and subsequently to speech. It aims to assist visually impaired individuals by providing them with a tool to extract text from images and convert it into speech for easy comprehension. This project was developed as a submission for a Hackathon, completed within 48 hours. It won the runner-up prize.
 
 ## Features
 - **Image to Text Conversion**: Utilizes pytesseract, a Python library for Optical Character Recognition (OCR), to extract text from images.
