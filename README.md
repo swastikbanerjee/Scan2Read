@@ -1,6 +1,4 @@
-# Scan2Read: Mobile Application Framework for Image to Text to Speech Conversion
-
-![Scan2Read Logo](scan2read_logo.png)
+# Scan2Read: you scan we read...'exclusively for the visually impaired'
 
 [![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red.svg)](LICENSE)
 
