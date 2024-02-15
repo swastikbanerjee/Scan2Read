@@ -1,5 +1,5 @@
-# Scan2Read: you scan we read...'exclusively for the visually impaired'
-
+# Scan2Read
+`you scan we read...exclusively for the visually impaired`
 [![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red.svg)](LICENSE)
 
 ## Introduction
