@@ -17,9 +17,12 @@ Currently, Scan2Read is not available on any app store. However, you can set it 
 
 1. Clone the Scan2Read repository from GitHub.
 2. Install the required dependencies:
-pip install kivy pytesseract gTTS
-3. Run the application using Python:
-python main.py
+   
+`pip install kivy pytesseract gTTS`
+
+5. Run the application using Python:
+   
+`python main.py`
 
 ## Usage
 1. Launch the Scan2Read application on your mobile device.
